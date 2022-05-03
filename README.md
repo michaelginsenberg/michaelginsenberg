@@ -18,6 +18,13 @@
     
   -------basic info----------
   
+    Email: rafael1973@yahoo.com
+    
+    Height: 6' 0" (183 centimeters)
+    
+    Weight: 195.1 pounds (88.7 kilograms)
+    
+    Hair Color: Brown
     
 <!---
 michaelginsenberg/michaelginsenberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
